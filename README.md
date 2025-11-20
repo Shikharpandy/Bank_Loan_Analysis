@@ -1,10 +1,3 @@
-# Bank_Loan_Analysis
-Bank Loan Analysis Project (SQL + Excel).
-Here is a **clean, professional, copy-paste ready README.md** for your **Bank Loan Analysis Project (SQL + Excel)**.
-Fully formatted, structured, and ATS/GitHub friendly.
-
----
-
 # 📊 Bank Loan Analysis Report (SQL + Excel Dashboard)
 
 This project provides a **complete analysis of a bank’s loan portfolio** using **SQL for data cleaning + KPI calculations** and **Excel for dashboard creation and visualization**.
@@ -103,6 +96,8 @@ Includes:
 * Amount Received
 * Avg Interest Rate
 * Avg DTI
+  <img width="1122" height="566" alt="Screenshot 2025-11-20 210448" src="https://github.com/user-attachments/assets/c67c1d19-8fc3-4136-b43e-1b919ea455ad" />
+
 
 ---
 
@@ -126,6 +121,8 @@ A visual breakdown of loan performance:
 
 * **🗂️ Home Ownership Overview (Tree Map Alt.)**
   (Own, Rent, Mortgage)
+  <img width="1391" height="669" alt="Screenshot 2025-11-20 210406" src="https://github.com/user-attachments/assets/5bb43a59-dd83-4ba4-ab05-374937b60e47" />
+
 
 ---
 
@@ -201,13 +198,3 @@ Using SQL date functions to extract monthly performance.
 2. Run SQL scripts in `/SQL Queries/`.
 3. Load cleaned output into Excel.
 4. Use slicers to explore dashboards interactively.
-
----
-
-If you want, I can also prepare:
-
-✅ **Project thumbnail image**
-✅ **Short version for LinkedIn**
-✅ **Interview explanation (2 minutes)**
-
-Just tell me!
